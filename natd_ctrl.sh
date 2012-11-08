@@ -1,5 +1,5 @@
 #!/bin/sh
-# Takanori TANIGUCHI, taniguchi.takanori@dena.jp
+# Takanori TANIGUCHI
 # 2012 Nov 6
 
 while getopts "a:f:n:p:w:" flag; do
