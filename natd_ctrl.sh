@@ -14,6 +14,7 @@ done
 
 # If adhoc wifi name given, create it on WiFi.
 if [ ${ADHOC_MODE:-OFF} != OFF ]; then
+       # Not implemented yet.
 	echo "Create ADHOC WiFi: $ADHOC_MODE"
 	ESSID=$ADHOC_MODE
 	
